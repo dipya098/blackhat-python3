@@ -1,7 +1,7 @@
-import socket
-import os
-import struct
-import threading
+import _socket_
+import _os_
+import _struct_
+import _threading_
 from ipaddress import ip_address, ip_network
 from ctypes import *
 
